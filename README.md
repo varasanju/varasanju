@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @varasanju
+- 👋 Hi, I’m @vara
 - 👀 I’m interested in IT technologies 
 - 🌱 I’m currently learning ui/ux
 - 💞️ I’m looking to collaborate on top MNCs
